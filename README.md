@@ -8,4 +8,6 @@ To run this program, you have to click on the pac-man.
 I'd like to make the pac-man to move to the users' input direction.
 
 ## License
-MIT Professinal Certificate in Coding: Full Stack Development with MERN
+MIT Professinal Certificate in Coding: Full Stack Development with MERN (2022)
+
+<sub>online course</sub>
